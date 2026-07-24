@@ -13,7 +13,7 @@ I am a **Full-Stack Web Developer** specializing in building modern web applicat
 ---
 
 ### 🚀 Featured Projects
-* **Quiz Game** - A full-stack interactive web application built with JavaScript. | [Live Vercel Demo](YOUR_VERCEL_LINK)
+* **Quiz Game** - A full-stack interactive web application built with JavaScript. | [Live Vercel Demo]https://quiz-game-rust-psi.vercel.app/
 
 ---
 
